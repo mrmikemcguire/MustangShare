@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>126038351019-l55ll4iitl3stdbujm8u52r903t3483a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.126038351019-l55ll4iitl3stdbujm8u52r903t3483a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxXiXLyq0OYMSoJPbdRX8fcWyRFvwndqg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>126038351019</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mullenhigh.mustang_share</string>
+	<key>PROJECT_ID</key>
+	<string>mustangshare-ff7e0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mustangshare-ff7e0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:126038351019:ios:701a460a3f0b2bbd036bee</string>
+	<key>DATABASE_URL</key>
+	<string>https://mustangshare-ff7e0.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "126038351019",
+    "firebase_url": "https://mustangshare-ff7e0.firebaseio.com",
+    "project_id": "mustangshare-ff7e0",
+    "storage_bucket": "mustangshare-ff7e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126038351019:android:af903d29ad8f7745036bee",
+        "android_client_info": {
+          "package_name": "com.mullenhigh.mustang_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126038351019-mc37jo4f7fsr3nvham3q3iara4tledql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mullenhigh.mustang_share",
+            "certificate_hash": "7b4827eec5811ed0bb1f8d15d4402293c2e831cc"
+          }
+        },
+        {
+          "client_id": "126038351019-jvgu0qv42demf8usrjtgk70attlfei1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh38CxxdgB8eJntKGc5XjE5xFp05qzuAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126038351019-jvgu0qv42demf8usrjtgk70attlfei1d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "126038351019-l55ll4iitl3stdbujm8u52r903t3483a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mullenhigh.mustangshare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
